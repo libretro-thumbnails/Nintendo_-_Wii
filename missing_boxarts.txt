@@ -224,7 +224,6 @@ Animal Life - Doubutsu Fureai Seikatsu (Japan).png
 Animal Planet_ Vet Life (Europe).png
 Anime Slot Revolution_ Pachi-Slot Kidou Senshi Gundam II_ Ai Senshi-hen (Japan).png
 Another Code R Kioku no Tobira (Japan).png
-Another Code_ R - A Journey into Lost Memories (Europe).png
 Another Rock Paper Scissors.png
 Another Super Mario Bros. Wii.png
 Another Super Mario Bros. Wii (Europe).png
@@ -1260,7 +1259,6 @@ Diner Dash (Europe).png
 Diner Dash (Japan).png
 Diner Dash (USA).png
 Dino Strike (Europe).png
-Disaster_ Day of Crisis (Europe).png
 Disaster_ Day of Crisis (Japan).png
 Disc Dumper.png
 Disc Loader.png
@@ -1270,7 +1268,6 @@ Disk Drive Lighter.png
 Disney Channel_ All Star Party (Europe).png
 Disney Club Penguin_ Game Day! (Europe).png
 Disney Epic Mickey (Demo) (USA).png
-Disney Epic Mickey (Europe).png
 Disney Epic Mickey (Europe).png
 Disney Epic Mickey (Europe).png
 Disney Epic Mickey (Europe).png
@@ -1426,7 +1423,6 @@ Dragon Ball Z Budokai Tenkaichi 3 Versión! Castellano [BETA 1] (USA).png
 Dragon Ball Z Budokai Tenkaichi 3 Versión! Español (USA).png
 Dragon Ball Z Budokai Tenkaichi 3 Versión! Latino [BETA 3 - UPDATE 3 ] (USA).png
 Dragon Ball Z_ Budokai Tenkaichi 2 (Europe).png
-Dragon Ball Z_ Budokai Tenkaichi 3 (Europe).png
 Dragon Ball Z_ Sparking! METEOR (Japan).png
 Dragon Ball Z_ Sparking! NEO (Japan).png
 Dragon Ball_ Revenge of King Piccolo (Europe).png
@@ -3355,7 +3351,6 @@ Metroid Prime 2_ Dark Echoes.png
 Metroid Prime 2_ Dark Echoes (Japan).png
 Metroid Prime 3 Preview Channel (Europe).png
 Metroid Prime 3 Preview Channel (USA).png
-Metroid Prime 3_ Corruption (Europe).png
 Metroid Prime 3_ Corruption (Japan).png
 Metroid Prime_ Trilogy (Europe).png
 Metroid Prime_ Trilogy - Google Translated (USA).png
@@ -4014,7 +4009,6 @@ Nitrobike (Japan).png
 No More Heroes.png
 No More Heroes (Europe).png
 No More Heroes (Japan).png
-No More Heroes 2_ Desperate Struggle (Europe).png
 Nobunaga no Yabou Kakushin with Power-Up Kit (Japan).png
 Nobunaga's Ambition (USA).png
 Nodame Cantabile Dream Orchestra (Japan).png
@@ -7015,7 +7009,6 @@ X-Men Origins_ Wolverine (Europe).png
 Xander Kart Wii (USA).png
 Xeempongwii.png
 Xenoblade (Japan).png
-Xenoblade Chronicles (Europe).png
 Xenon's Hide and Seek CT Collection (USA).png
 Xevious.png
 Xevious (Europe).png
@@ -7086,7 +7079,6 @@ Yummy Yummy Cooking Jam (USA).png
 ZPL's Hide and Seek Collection (USA).png
 ZPL's Track Collection (USA).png
 Zack _ Wiki - Barbarosui Bomul.png
-Zack _ Wiki_ Quest for Barbaros' Treasure (Europe).png
 Zack _ Wiki_ Quest for Barbaros' Treasure (USA).png
 Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Kounin_ Kanken Wii_ Kanji-ou Ketteisen (Japan).png
 Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft_ 250 Mannin no Kanken_ Wii de Tokoton Kanji Nou (Japan).png
