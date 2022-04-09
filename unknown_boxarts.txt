@@ -145,11 +145,6 @@ Crayola - Colorful Journey (USA).png
 Cyberbike (USA).png
 DJ Hero (09) (USA).png
 DT Carnage (USA).png
-Dance Dance Revolution - Disney Grooves (USA).png
-Dance Dance Revolution - Hottest Party (USA).png
-Dance Dance Revolution - Hottest Party 2 (USA).png
-Dance Dance Revolution - Hottest Party 3 (USA).png
-DanceDanceRevolution (USA).png
 Dancing with the Stars - We Dance! (USA).png
 Daring Game For Girls (USA).png
 Data East - Arcade Classics (USA).png
@@ -703,12 +698,8 @@ Summer Athletics - The Ultimate Challenge (USA).png
 Summer Sports - Paradise Island (USA).png
 Summer Sports 2 - Island Sports Party (USA).png
 Super Mario All-Stars (Europe).png
-Super Mario All-Stars 25th Anniversary (USA).png
 Super Monkey Ball - Banana Blitz (USA).png
 Super Monkey Ball - Step _ Roll (USA).png
-Super Paper Mario (Europe) (En,Fr,De,Es,It) (Rev 1).png
-Super Paper Mario (USA) (Rev 1).png
-Super Paper Mario (USA) (v1.00).png
 Super Swing Golf - Season 2 (USA).png
 TMNT - Smash-Up Cowabunga (USA).png
 Tale of Despereaux (USA).png
@@ -805,3 +796,4 @@ Zero - Tsukihami no Kamen (Japan).png
 Zhu Zhu Pets  - Featuring The Wild Bunch (USA).png
 iCarly 2 - iJoin The Click (USA).png
 th!nk Logic Trainer (USA).png
+Super Mario All-Stars 25th Anniversary (USA).png
