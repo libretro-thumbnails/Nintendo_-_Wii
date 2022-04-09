@@ -6,6 +6,10 @@ import os
 def clean_filename(filename):
     return filename.replace(':', '_').replace('&', '_')
 
+regex2 = re.compile('[^A-Za-z0-9]')
+def simple_filename(filename):
+    return regex2.sub('', filename)
+
 dat_url = 'https://raw.githubusercontent.com/libretro/libretro-database/master/dat/Nintendo%20-%20Wii.dat'
 dat_str = urllib.request.urlopen(dat_url).read().decode()
 
@@ -26,10 +30,19 @@ for line in lines:
     if result:
         name = result.group(1)
         filename = clean_filename(name + '.png')
-        if filename not in boxarts:
-            missing_boxarts.append(filename)
-        else:
+        if filename in boxarts:
             boxarts.remove(filename)
+        else:
+            renamed = False
+            for boxart in boxarts:
+                if simple_filename(boxart) == simple_filename(filename):
+                    os.rename(os.path.join('Named_Boxarts', boxart), os.path.join('Named_Boxarts', filename))
+                    boxarts.remove(boxart)
+                    renamed = True
+                    break
+            if not renamed:
+                missing_boxarts.append(filename)
+
 
 missing_boxarts_file = open('missing_boxarts.txt', 'w')
 missing_boxarts_str = ''
