@@ -9,7 +9,7 @@ valid_filename_chars = "-_.() %s%s" % (string.ascii_letters, string.digits)
 char_limit = 255
 
 def clean_filename(filename):
-    return filename.replace(':', '_')
+    return filename.replace(':', '_').replace('&', '_')
 
 dat_url = 'https://raw.githubusercontent.com/libretro/libretro-database/master/dat/Nintendo%20-%20Wii.dat'
 dat_str = urllib.request.urlopen(dat_url).read().decode()
