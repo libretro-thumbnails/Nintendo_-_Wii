@@ -2,11 +2,6 @@
 import urllib.request
 import re
 import os
-import unicodedata
-import string
-
-valid_filename_chars = "-_.() %s%s" % (string.ascii_letters, string.digits)
-char_limit = 255
 
 def clean_filename(filename):
     return filename.replace(':', '_').replace('&', '_')
