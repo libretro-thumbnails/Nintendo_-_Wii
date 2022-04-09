@@ -4,11 +4,11 @@ import re
 import os
 
 def clean_filename(filename):
-    return filename.replace(':', '_').replace('&', '_')
+    return filename.replace(':', '_').replace('&', '_').replace('/', '_')
 
 regex2 = re.compile('[^A-Za-z0-9]')
 def simple_filename(filename):
-    return regex2.sub('', filename)
+    return regex2.sub('', filename).lower()
 
 dat_url = 'https://raw.githubusercontent.com/libretro/libretro-database/master/dat/Nintendo%20-%20Wii.dat'
 dat_str = urllib.request.urlopen(dat_url).read().decode()
