@@ -382,7 +382,6 @@ Baramui Klonoa - Door to Phantomile.png
 Barbie Horse Adventures_ Riding Camp (Europe).png
 Barbie Jet, Set _ Style! (Europe).png
 Barbie Jet, Set _ Style! (Europe).png
-Barbie Jet, Set _ Style! (USA).png
 Barbie and Her Sisters_ Puppy Rescue (Europe).png
 Barbie and Her Sisters_ Puppy Rescue (USA).png
 Barbie and the Three Musketeers (Europe).png
@@ -679,7 +678,6 @@ Breath of Fire II - Shimei no Ko (Japan).png
 Brick OS.png
 Briickout.png
 Briicks.png
-Broken Sword_ Shadow of the Templars (Director's Cut) (USA).png
 Broken Sword_ Shadow of the Templars - The Director's Cut (Europe).png
 Brothers In Arms_ Earned In Blood (Europe).png
 Brothers In Arms_ Earned In Blood (USA).png
@@ -863,7 +861,6 @@ Challenging Super Mario Bros. Wii_ Virtual Special (Japan).png
 Challenging Super Mario Bros. Wii_ Virtual Special (USA).png
 Chameleon Kid (Japan).png
 Champion Jockey_ G1 Jockey _ Gallop Racer (Europe).png
-Champion Jockey_ G1 Jockey _ Gallop Racer (USA).png
 Champion Jockey_ Gallop Racer _ GI Jockey (Japan).png
 Champion Wrestler (Japan).png
 Championship Lode Runner (Japan).png
@@ -1458,7 +1455,6 @@ Drawingbox.png
 Drawmii.png
 Drawn to Life_ The Next Chapter (Europe).png
 Drawsome! Tablet (USA).png
-Dream Dance _ Cheer (USA).png
 Dream Pinball 3D (Europe).png
 DreamWorks Kung Fu Panda.png
 DreamWorks Kung Fu Panda (Japan).png
@@ -1941,7 +1937,6 @@ Galaxy Force II (Japan).png
 Galaxy Force II (USA).png
 Galileo Family Quiz (Europe).png
 Galileo Mystery_ The Crown of Midas (Europe).png
-Gallop _ Ride! (USA).png
 Gambol.png
 Game Party (Europe).png
 Game Party 3 (Europe).png
@@ -2311,7 +2306,6 @@ Haunted House (Europe).png
 Headings.png
 Headtracking (Demo).png
 Heathcliff_ The Fast and the Furriest (Europe).png
-Heathcliff_ The Fast and the Furriest (USA).png
 Heatseeker (Europe).png
 Heatseeker (Europe).png
 Heatseeker (Europe).png
@@ -2521,7 +2515,6 @@ JellyCar 2 (USA).png
 JellyCar Wii.png
 Jenga World Tour (Europe).png
 Jenny Thinks.png
-Jerry Rice _ Nitus' Dog Football (USA).png
 Jett Rocket (Demo) (Europe).png
 Jett Rocket (Demo) (USA).png
 Jett Rocket (Europe).png
@@ -2813,7 +2806,6 @@ LEGO Star Wars III_ The Clone Wars (Europe).png
 LEGO Star Wars_ The Complete Saga (Europe).png
 LEGO Star Wars_ The Complete Saga (Japan).png
 LEGO The Lord of the Rings (Europe).png
-LEGO The Lord of the Rings (USA).png
 LIT (Europe).png
 LIT (USA).png
 LPairs.png
@@ -3100,7 +3092,6 @@ Mario _ Sonic at Bejing Olympic (Japan).png
 Mario _ Sonic at London Olympic (Japan).png
 Mario _ Sonic at Vancouver Olympic (Japan).png
 Mario _ Sonic at the London 2012 Olympic Games (Europe).png
-Mario _ Sonic at the London 2012 Olympic Games (USA).png
 Mario _ Sonic at the Olympic Games (Europe).png
 Mario _ Sonic at the Olympic Winter Games (Europe).png
 Mario _ Yoshi (Europe).png
@@ -3267,7 +3258,6 @@ Max _ the Magic Marker (Europe).png
 Max _ the Magic Marker (USA).png
 Max and the Magic Marker (Demo) (USA).png
 Maxed Kart Wii (USA).png
-Maximum Racing_ Drag _ Stock Racer (USA).png
 Mayhem in Monsterland (Europe).png
 MazeOfGaliousWii.png
 Medal of Honor_ Heroes 2 (Europe).png
@@ -3540,7 +3530,6 @@ My Fireplace (Europe).png
 My First Songs (Europe).png
 My First Songs (Europe).png
 My First Songs (Europe).png
-My Fitness Coach 2_ Exercise _ Nutrition (USA).png
 My Fitness Coach_ Cardio Workout (Europe).png
 My Fitness Coach_ Club (Europe).png
 My Fitness Coach_ Dance Workout (Europe).png
@@ -3548,7 +3537,6 @@ My Fitness Coach_ Get In Shape (Europe).png
 My Fitness Coach_ Get In Shape (Europe).png
 My French Coach_ Improve Your French (Europe).png
 My Horse _ Me (Europe).png
-My Horse _ Me (USA).png
 My Horse _ Me 2 (Europe).png
 My Horse _ Me_ Riding for Gold (USA).png
 My Horse Club_ On the Trail of the Mysterious Appaloosa (Europe).png
@@ -4152,8 +4140,6 @@ Party Game Box 100 (Japan).png
 Party Quiz Mega Q (Japan).png
 Patched IOS 80 Installer for vWii.png
 PattView Wii.png
-Paws _ Claws_ Pet Resort (USA).png
-Paws _ Claws_ Pet Vet (USA).png
 Peach Kart 8 (Europe).png
 Peach Kart 8 (Japan).png
 Peach Kart 8 (USA).png
@@ -4716,7 +4702,6 @@ Rockstar Games Presents_ Table Tennis (Europe).png
 Rockstar Games Presents_ Table Tennis (Japan).png
 Rodea the Sky Soldier (Europe).png
 Rogue Trooper_ Quartz Zone Massacre (Europe).png
-Rogue Trooper_ Quartz Zone Massacre (USA).png
 Rokoban.png
 Rolling Thunder (Japan).png
 Rolling Thunder 2 (Europe).png
@@ -5032,7 +5017,6 @@ Simple Wii Series Vol. 5_ The Block Kuzushi (Japan).png
 Simple Wii Series Vol. 6_ The Wai Wai Combat (Japan).png
 Sin _ Punishment (Europe).png
 Sin _ Punishment (USA).png
-Sin _ Punishment_ Star Successor (USA).png
 Sin Junghwa-daeseon - Michaelgwa Meimeiui Moheom.png
 Sin and Punishment_ Successor of the Skies (Europe).png
 Sing 4_ The Hits Edition (Europe).png
@@ -5124,7 +5108,6 @@ Skate It (Europe).png
 Skate It (Japan).png
 Skate or Die! (Europe).png
 Sketch Fight.png
-Ski and Shoot (USA).png
 Skipper's 200Kmh Distribution (USA).png
 Sky Crawlers_ Innocent Aces (Japan).png
 Sky Kid (Japan).png
@@ -5191,7 +5174,6 @@ Soldier Blade (Europe).png
 Soldier Blade (Japan).png
 Soldier Blade (USA).png
 Solitaire _ Mahjong (Europe).png
-Solitaire _ Mahjong (USA).png
 Solitaire (Europe).png
 Solomon no Kagi (Japan).png
 Solomon's Key (Europe).png
@@ -5208,7 +5190,6 @@ Sonic _ Knuckles (Europe).png
 Sonic _ Knuckles (Japan).png
 Sonic _ Knuckles (USA).png
 Sonic _ SEGA All-Stars Racing (Europe).png
-Sonic _ SEGA All-Stars Racing (USA).png
 Sonic 3D - Flickies' Island (Europe).png
 Sonic 3D Blast (Japan).png
 Sonic 3D Blast (USA).png
@@ -5970,78 +5951,56 @@ Texttris.png
 Th!nk Fast_ The Ultimate Trivia Showdown (Europe).png
 Thatother.png
 The $1,000,000 Pyramid (USA).png
-The Adventures of Tintin_ The Game (USA).png
 The Adventures of Tintin_ The Secret of the Unicorn (Europe).png
 The Amazing Brain Train! (USA).png
-The Amazing Race (USA).png
 The Amazing Spider-Man (Europe).png
 The Amazing Spider-Man (Europe).png
-The Amazing Spider-Man (USA).png
 The Ant Bully (Europe).png
-The Ant Bully (USA).png
 The Art of Fighting - Ryuuko no Ken Gaiden (Japan).png
 The Atlas - Renaissance Voyager (Japan).png
-The BIGS (USA).png
-The BIGS 2 (USA).png
 The Bachelor_ The Video Game (USA).png
 The Beatles_ Rock Band (Europe).png
-The Beatles_ Rock Band (USA).png
 The Biggest Loser (Europe).png
-The Biggest Loser (USA).png
 The Biggest Loser Challenge (Europe).png
-The Biggest Loser Challenge (USA).png
 The Bigs (Europe).png
 The Bigs 2_ Baseball (Europe).png
 The Black Eyed Peas Experience (Europe).png
-The Black Eyed Peas Experience (USA).png
 The Black Eyed Peas Experience D1 Edition (Europe).png
 The Black Eyed Peas Experience_ Limited Edition (USA).png
-The Cages_ Pro Style Batting Practice (USA).png
 The Catachthonic.png
 The Chronicles of Narnia_ Prince Caspian (Europe).png
 The Chronicles of Narnia_ Prince Caspian (Europe).png
 The Chronicles of Narnia_ Prince Caspian (Europe).png
 The Chronicles of Narnia_ Prince Caspian (Europe).png
-The Chronicles of Narnia_ Prince Caspian (USA).png
 The Combatribes (Japan).png
 The Combatribes (USA).png
 The Conduit (Europe).png
-The Conduit (USA).png
 The Croods_ Prehistoric Party! (Europe).png
 The Croods_ Prehistoric Party! (USA).png
 The Crown of Midas (Europe).png
 The Cube (Europe).png
 The Curse of Black Toad (USA).png
-The Daring Game for Girls (USA).png
 The Destiny of Zorro (Europe).png
-The Destiny of Zorro (USA).png
 The Dog Island (Europe).png
 The Dynastic Hero (Europe).png
 The Dynastic Hero (USA).png
 The End for Newer Super Mario Bros. U (USA).png
 The Explorer and the Mystery of the Diamond Scarab (Europe).png
 The Garfield Show_ Threat of the Space Lasagna (Europe).png
-The Garfield Show_ Threat of the Space Lasagna (USA).png
 The Godfather_ Blackhand Edition (Europe).png
 The Godfather_ Blackhand Edition (Europe).png
 The Godfather_ Blackhand Edition (Europe).png
 The Godfather_ Blackhand Edition (Europe).png
-The Godfather_ Blackhand Edition (USA).png
 The Golden Axe (Japan).png
 The Golden Axe II (Japan).png
 The Golden Axe III (Japan).png
 The Golden Compass (Europe).png
 The Golden Compass (Europe).png
-The Golden Compass (USA).png
 The Goonies.png
 The Grim Adventures of Billy _ Mandy (Europe).png
-The Grim Adventures of Billy _ Mandy (USA).png
 The Hardy Boys_ The Hidden Theft (Europe).png
-The Hardy Boys_ The Hidden Theft (USA).png
 The Hip Hop Dance Experience (Europe).png
-The Hip Hop Dance Experience (USA).png
 The History Channel_ Battle for the Pacific (Europe).png
-The History Channel_ Battle for the Pacific (USA).png
 The House of the Dead 2.png
 The House of the Dead 2 _ 3 Return (Europe).png
 The House of the Dead 2 _ 3 Return (Japan).png
@@ -6052,11 +6011,9 @@ The Hybrid Front (Japan).png
 The Ignition Factor (Europe).png
 The Ignition Factor (USA).png
 The Incredible Hulk (Europe).png
-The Incredible Hulk (USA).png
 The Incredible Maze (Europe).png
 The Incredible Maze (USA).png
 The Island of Dr. Frankenstein (Europe).png
-The Island of Dr. Frankenstein (USA).png
 The King of Fighters '94 (Europe).png
 The King of Fighters '94 (Japan).png
 The King of Fighters '94 (USA).png
@@ -6077,12 +6034,9 @@ The King of Fighters '99 (Japan).png
 The King of Fighters '99 (USA).png
 The King of Fighters Collection - The Orochi Saga.png
 The Kore Gang_ Outvasion From Inner Earth (Europe).png
-The Kore Gang_ Outvasion From Inner Earth (USA).png
 The Kung Fu (Japan).png
 The Last Airbender (Europe).png
-The Last Airbender (USA).png
 The Last Airbender_ Special Edition (Europe).png
-The Last Airbender_ Toys R Us Special Edition (USA).png
 The Last Blade (Europe).png
 The Last Blade (USA).png
 The Last Blade 2 (Europe).png
@@ -6135,32 +6089,25 @@ The Legend of Zelda_ Twilight Princess (Demo) (USA).png
 The Legend of Zelda_ Twilight Princess (Europe).png
 The Lone Pixel.png
 The Lord of the Rings_ Aragorn's Quest (Europe).png
-The Lord of the Rings_ Aragorn's Quest (USA).png
 The Magic Obelisk (USA).png
 The Magic Roundabout (Europe).png
-The Monkey King_ The Legend Begins (USA).png
 The Mummy_ Tomb of the Dragon Emperor (Europe).png
-The Mummy_ Tomb of the Dragon Emperor (USA).png
 The Munchables (Europe).png
-The Munchables (USA).png
 The Mystery of Whiterock Castle (Europe).png
 The Mystery of Whiterock Castle (USA).png
 The NMeade's Mario Kart Fun v2.0.1 (Europe).png
 The Naked Brothers Band_ The Video Game (Europe).png
-The Naked Brothers Band_ The Video Game (USA).png
 The New Special Road (Europe).png
 The New Special Road (Japan).png
 The New Special Road (USA).png
 The NewZealand Story (Japan).png
 The Ninjawarriors (Japan).png
-The Oregon Trail (USA).png
 The Path of the Warrior - Art of Fighting 3 (Japan).png
 The Penguins of Madagascar_ Dr. Blowhole Returns Again! (Europe).png
 The Penguins of Madagascar_ Dr. Blowhole Returns Again! (USA).png
 The Pit of 100 Trials 1-20 (Europe).png
 The Pit of 100 Trials 1-20 (Japan).png
 The Pit of 100 Trials 1-20 (USA).png
-The Price Is Right Decades (USA).png
 The Princess and the Frog (Riverboat Jazz Edition) (USA).png
 The Princess and the Frog (USA).png
 The Revenge of Shinobi (Europe).png
@@ -6168,7 +6115,6 @@ The Revenge of Shinobi (USA).png
 The Saddle Club (Europe).png
 The Scary (Demo).png
 The Secret Saturdays_ Beasts of the 5th Sun (Europe).png
-The Secret Saturdays_ Beasts of the 5th Sun (USA).png
 The Simpsons Game (Europe).png
 The Simpsons Game (Europe).png
 The Simpsons Game (Europe).png
@@ -6177,15 +6123,11 @@ The Sims 2_ Castaway (Europe).png
 The Sims 2_ Pets (Europe).png
 The Sims 3 (Europe).png
 The Sky Crawlers_ Innocent Aces (Europe).png
-The Sky Crawlers_ Innocent Aces (USA).png
 The Smurfs 2 (Europe).png
-The Smurfs 2 (USA).png
-The Smurfs Dance Party (USA).png
 The Smurfs Dance Party - Walmart Edition (USA).png
 The Smurfs Party Pack (Europe).png
 The Smurfs_ Dance Party (Europe).png
 The Spiderwick Chronicles (Europe).png
-The Spiderwick Chronicles (USA).png
 The Story of Thor (Europe).png
 The Story of Thor - Hikari o Tsugu Mono (Japan).png
 The Studio 100_ Play Island (Europe).png
@@ -6194,7 +6136,6 @@ The Super Shinobi II (Japan).png
 The Super Spy (Japan).png
 The Tale of Despereaux (Europe).png
 The Tale of Despereaux (Europe).png
-The Tale of Despereaux (USA).png
 The Tales of Bearsworth Manor - Chaotic Conflicts (Europe).png
 The Tales of Bearsworth Manor - Chaotic Conflicts (USA).png
 The Tales of Bearsworth Manor - Puzzling Pages (Europe).png
@@ -6919,7 +6860,6 @@ Winning Post 7 Maximum 2008 (Japan).png
 Winning Post World (Japan).png
 Winning Post World 2010 (Japan).png
 Winning Shot (Japan).png
-Winter Blast_ 9 Snow _ Ice Games (USA).png
 Winter Games (Europe).png
 Winter Sports 2 The Next Challenge (Europe).png
 Winter Sports 2008_ The Ultimate Challenge (Europe).png
@@ -7079,7 +7019,6 @@ Yummy Yummy Cooking Jam (USA).png
 ZPL's Hide and Seek Collection (USA).png
 ZPL's Track Collection (USA).png
 Zack _ Wiki - Barbarosui Bomul.png
-Zack _ Wiki_ Quest for Barbaros' Treasure (USA).png
 Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Kounin_ Kanken Wii_ Kanji-ou Ketteisen (Japan).png
 Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft_ 250 Mannin no Kanken_ Wii de Tokoton Kanji Nou (Japan).png
 Zanac (Japan).png
