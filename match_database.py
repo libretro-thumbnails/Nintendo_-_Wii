@@ -20,8 +20,7 @@ lines = dat_str.split('\n')
 regex = re.compile('^\sname\s"(.*)"\s*$')
 
 boxarts = os.listdir('Named_Boxarts')
-snaps = os.listdir('Named_Snaps')
-titles = os.listdir('Named_Titles')
+boxarts.sort()
 
 missing_boxarts = []
 missing_snaps = []
