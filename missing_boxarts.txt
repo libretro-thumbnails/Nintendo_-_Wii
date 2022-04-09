@@ -7699,7 +7699,6 @@ mapbf.png
 scummVM.png
 uDraw Studio (Europe).png
 uDraw Studio_ Instant Artist (Europe).png
-uDraw Studio_ Instant Artist (USA).png
 uLoader (Europe).png
 xyzzy.png
 Ōkami (Europe).png
