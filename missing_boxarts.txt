@@ -260,7 +260,6 @@ Arcade Sports (Europe).png
 Arcade Sports (USA).png
 Arcade Zone (Europe).png
 Arctic Tale (Europe).png
-Are You Smarter Than A 5th Grader? Make the Grade (USA).png
 Argos no Senshi_ Muscle Impact (Japan).png
 Argus no Senshi (Japan).png
 ArianeB.png
@@ -406,7 +405,6 @@ Barrage.png
 Baseball (Europe).png
 Baseball (Japan).png
 Baseball (USA).png
-Baseball Blast! (USA).png
 Baseball Stars 2 (Europe).png
 Baseball Stars 2 (Japan).png
 Baseball Stars 2 (USA).png
@@ -803,7 +801,6 @@ Carmen Sandiego Adventures in Math - The Island of Diamonds (USA).png
 Carmen Sandiego Adventures in Math - The Lady Liberty Larceny (USA).png
 Carnival Games (Europe).png
 Carnival Games_ Mini Golf (Europe).png
-Carnival Games_ Mini Golf (USA).png
 Carnival King (USA).png
 Cars (Europe).png
 Cars (Europe).png
@@ -1686,7 +1683,6 @@ Family Party_ 30 Great Games Outdoor Fun (Europe).png
 Family Party_ 30 Great Games Winter Fun (Europe).png
 Family Party_ 30 Great Games Winter Fun (USA).png
 Family Party_ 90 Great Games Party Pack (Europe).png
-Family Party_ 90 Great Games Party Pack (USA).png
 Family Party_ Fitness Fun (Europe).png
 Family Pirate Party (Europe).png
 Family Pirate Party (USA).png
@@ -3533,7 +3529,6 @@ Muscle Koushinkyoku (Japan).png
 Muscle March (Europe).png
 Muscle March (USA).png
 Mushroom Men_ The Spore Wars (Europe).png
-Mushroom Men_ The Spore Wars (USA).png
 Music Painter.png
 Musiic Party_ Rock the House (Europe).png
 Musiic Party_ Rock the House (Europe).png
@@ -4198,7 +4193,6 @@ Phantasy Star III - Generations of Doom (USA).png
 Phantasy Star IV (Europe).png
 Phantasy Star IV (USA).png
 Phantom Brave Wii (Japan).png
-Phantom Brave_ We Meet Again (USA).png
 Pheasants Forever (Europe).png
 Phelios (Japan).png
 Phelios (Japan).png
@@ -4448,7 +4442,6 @@ Punch-Out!! (Europe).png
 Punch-Out!! (Europe).png
 Punch-Out!! (Japan).png
 Punch-Out!! (Japan).png
-Punch-Out!! (USA).png
 Puppy Luv (Europe).png
 Puppy Luv_ Your New Best Friend (Europe).png
 Puppy Luv_ Your New Best Friend (USA).png
@@ -4727,7 +4720,6 @@ Rockman X2 (Japan).png
 Rockstar Games Presents_ Table Tennis (Europe).png
 Rockstar Games Presents_ Table Tennis (Japan).png
 Rodea the Sky Soldier (Europe).png
-Rodea the Sky Soldier (USA).png
 Rogue Trooper_ Quartz Zone Massacre (Europe).png
 Rogue Trooper_ Quartz Zone Massacre (USA).png
 Rokoban.png
@@ -5303,7 +5295,6 @@ Speed (Europe).png
 Speed 2 (Europe).png
 Speed Racer (Japan).png
 Speed Racer_ The Videogame (Europe).png
-Speed Racer_ The Videogame (USA).png
 Spellbound Party (Europe).png
 Spelunker (Europe).png
 Spelunker (Japan).png
@@ -6343,7 +6334,6 @@ TrackMania (Europe).png
 Transformers - Convoy no Nazo (Japan).png
 Transformers Prime_ The Game (Europe).png
 Transformers_ Cybertron Adventures (Europe).png
-Transformers_ Cybertron Adventures (USA).png
 Transformers_ Dark of the Moon - Stealth Force Edition (Europe).png
 Transformers_ Prime (USA).png
 Transformers_ Revenge of the Fallen (Europe).png

@@ -7,7 +7,9 @@ def clean_filename(filename):
     return filename.replace(':', '_').replace('&', '_').replace('/', '_')
 
 regex2 = re.compile('[^A-Za-z0-9]')
+regex3 = re.compile('\(USA\)(.*)')
 def simple_filename(filename):
+    filename = regex3.sub('', filename)
     return regex2.sub('', filename).lower()
 
 dat_url = 'https://raw.githubusercontent.com/libretro/libretro-database/master/dat/Nintendo%20-%20Wii.dat'
@@ -36,7 +38,10 @@ for line in lines:
             renamed = False
             for boxart in boxarts:
                 if simple_filename(boxart) == simple_filename(filename):
-                    os.rename(os.path.join('Named_Boxarts', boxart), os.path.join('Named_Boxarts', filename))
+                    if os.path.exists(os.path.join('Named_Boxarts', filename)):
+                        os.remove(os.path.join('Named_Boxarts', boxart))
+                    else:
+                        os.rename(os.path.join('Named_Boxarts', boxart), os.path.join('Named_Boxarts', filename))
                     boxarts.remove(boxart)
                     renamed = True
                     break
