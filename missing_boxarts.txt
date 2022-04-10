@@ -1213,7 +1213,6 @@ Derby Dogs (USA).png
 Descent.png
 Desert Bus.png
 Despicable Me_ The Game (Europe).png
-Despicable Me_ The Game (USA).png
 Destroy All Humans! Big Willy Unleashed (Europe).png
 Detana!! TwinBee (Europe).png
 Detana!! TwinBee (Japan).png
@@ -3582,7 +3581,6 @@ Myth Makers_ Trixie in Toyland (Europe).png
 NAM-1975 (Europe).png
 NAM-1975 (Japan).png
 NAM-1975 (USA).png
-NASCAR 2011_ The Game (USA).png
 NBA 2K10 (Europe).png
 NBA 2K11 (Europe).png
 NBA 2K12 (Europe).png
@@ -4252,7 +4250,6 @@ PixelPlot.png
 Plaettchen Twist 'n' Paint (Europe).png
 Plaettchen Twist 'n' Paint (USA).png
 Planet 51_ The Game (Europe).png
-Planet 51_ The Game (USA).png
 Planet Basket 2009_2010 (Europe).png
 Planet Fish (USA).png
 Planet Hively.png
@@ -6267,7 +6264,6 @@ Transformers - Convoy no Nazo (Japan).png
 Transformers Prime_ The Game (Europe).png
 Transformers_ Cybertron Adventures (Europe).png
 Transformers_ Dark of the Moon - Stealth Force Edition (Europe).png
-Transformers_ Prime (USA).png
 Transformers_ Revenge of the Fallen (Europe).png
 Transformers_ The Game.png
 Transformers_ The Game (Europe).png
@@ -6870,7 +6866,6 @@ Winter Sports_ The Ultimate Challenge (USA).png
 Winter Stars (Europe).png
 Winterman.png
 Winters End.png
-Wipeout_ The Game (USA).png
 Wire3D (Demo).png
 Wolf of the Battlefield - Commando (Europe).png
 Wolf of the Battlefield - Commando (USA).png

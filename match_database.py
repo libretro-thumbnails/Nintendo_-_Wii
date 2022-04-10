@@ -7,7 +7,7 @@ def clean_filename(filename):
     return filename.replace(':', '_').replace('&', '_').replace('/', '_')
 
 def simple_filename(filename):
-    filename = re.sub(r'\b(and|the)\b', '', filename, flags=re.IGNORECASE)
+    filename = re.sub(r'\b(and|the|game)\b', '', filename, flags=re.IGNORECASE)
     filename = re.sub(r'\((USA|Europe)\).*', r'\(\1\)', filename, 1)
     return re.sub(r'[^A-Za-z0-9]', '', filename).lower()
 
