@@ -217,7 +217,6 @@ Andre's Retro Texture and Music Pack (USA).png
 Angry Birds Trilogy (Europe).png
 Angry Birds_ Star Wars (Europe).png
 Animal Crossing_ City Folk.png
-Animal Crossing_ City Folk (USA).png
 Animal Crossing_ Let's Go to the City (Europe).png
 Animal Forest e+ (USA).png
 Animal Life - Doubutsu Fureai Seikatsu (Japan).png
@@ -357,7 +356,6 @@ Bahamut Lagoon (Japan).png
 Bahamut Senki (Japan).png
 Bakugan Battle Brawlers (Europe).png
 Bakugan Battle Brawlers (Europe).png
-Bakugan Battle Brawlers (USA).png
 Bakugan_ Defenders of the Core (Europe).png
 Bakumatsu Roman Daini Maku - Gekka no Kenshi (Japan).png
 Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).png
@@ -427,7 +425,6 @@ Beach Fun_ Summer Challenge (Europe).png
 Beach de Oshiro wo Tsukuccha Wow! (Japan).png
 Bear Kart Wii (USA).png
 Beastly (Europe).png
-Beat the Beat_ Rhythm Paradise (Europe).png
 Bee Movie Game (Europe).png
 Bee Movie Game (Europe).png
 Bee Movie Game (USA).png
@@ -758,7 +755,6 @@ Call of Duty_ Black Ops (USA).png
 Call of Duty_ Modern Warfare - Reflex Edition (Europe).png
 Call of Duty_ Modern Warfare - Reflex Edition (Europe).png
 Call of Duty_ Modern Warfare - Reflex Edition (Europe).png
-Call of Duty_ Modern Warfare - Reflex Edition (USA).png
 Call of Duty_ Modern Warfare 3 (Europe).png
 Call of Duty_ Modern Warfare 3 (Europe).png
 Call of Duty_ Modern Warfare 3 (Europe).png
@@ -1167,7 +1163,6 @@ Dead Space_ Extraction (Europe).png
 Dead Space_ Extraction (Europe).png
 Dead Space_ Extraction (Japan).png
 Deadly Creatures (Europe).png
-Deal or No Deal_ Special Edition (USA).png
 Deal or No Deal_ The Banker Is Back (Europe).png
 Deal or No Deal_ The Banker Is Back (Europe).png
 Death Jr._ Root of Evil (Europe).png
@@ -4744,7 +4739,6 @@ SD Gundam_ Gashapon Wars (Japan).png
 SD Gundam_ Scad Hammers (Japan).png
 SDExplorer.png
 SEGA Superstars Tennis (Europe).png
-SEGA Superstars Tennis (USA).png
 SNES9xGX.png
 SNES9xGX Channel Installer.png
 SNK Arcade Classics Volume 1 (Europe).png
