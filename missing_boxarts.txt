@@ -718,11 +718,8 @@ CALLING Kuroki Chakushin (Japan).png
 CD Denjin - Rockabilly Tengoku (Japan).png
 CID_ The Dummy (Europe).png
 CSI_ Deadly Intent (Europe).png
-CSI_ Deadly Intent (USA).png
 CSI_ Fatal Conspiracy (Europe).png
-CSI_ Fatal Conspiracy (USA).png
 CSI_ Hard Evidence (Europe).png
-CSI_ Hard Evidence (USA).png
 CT Jam Best Of  (USA).png
 CTGP Classic Pack (USA).png
 CTGP Revolution Classic (USA).png
@@ -784,7 +781,6 @@ Cannon Super Mario Bros. Wii (Europe).png
 Cannon Super Mario Bros. Wii (Japan).png
 Cannon Super Mario Bros. Wii (USA).png
 Captain America_ Super Soldier (Europe).png
-Captain America_ Super Soldier (USA).png
 Captain Bowser's Revenge (Europe).png
 Captain Bowser's Revenge (Japan).png
 Captain Bowser's Revenge (USA).png

@@ -52,7 +52,9 @@ for line in lines:
 
 unknown_boxarts = []
 for boxart in boxarts:
-    renamed = False
+    unknown_boxarts.append(boxart)
+
+for boxart in boxarts:
     for filename in filenames:
         if simple_filename(boxart) == simple_filename(filename):
             if os.path.exists(os.path.join('Named_Boxarts', filename)):
@@ -61,11 +63,8 @@ for boxart in boxarts:
             else:
                 print('rename: ' + os.path.join('Named_Boxarts', boxart))
                 os.rename(os.path.join('Named_Boxarts', boxart), os.path.join('Named_Boxarts', filename))
-            boxarts.remove(boxart)
-            renamed = True
+            unknown_boxarts.remove(boxart)
             break
-    if not renamed:
-        unknown_boxarts.append(boxart)
 
 missing_boxarts_file = open('missing_boxarts.txt', 'w')
 missing_boxarts_str = ''
