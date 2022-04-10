@@ -21,6 +21,7 @@ regex = re.compile('^\sname\s"(.*)"\s*$')
 boxarts = os.listdir('Named_Boxarts')
 boxarts.sort()
 
+filenames = []
 missing_boxarts = []
 missing_snaps = []
 missing_titles = []
@@ -30,6 +31,7 @@ for line in lines:
     if result:
         name = result.group(1)
         filename = clean_filename(name + '.png')
+        filenames.append(filename)
         if filename in boxarts:
             boxarts.remove(filename)
         else:
@@ -37,8 +39,10 @@ for line in lines:
             for boxart in boxarts:
                 if simple_filename(boxart) == simple_filename(filename):
                     if os.path.exists(os.path.join('Named_Boxarts', filename)):
+                        print('remove: ' + os.path.join('Named_Boxarts', boxart))
                         os.remove(os.path.join('Named_Boxarts', boxart))
                     else:
+                        print('rename: ' + os.path.join('Named_Boxarts', boxart))
                         os.rename(os.path.join('Named_Boxarts', boxart), os.path.join('Named_Boxarts', filename))
                     boxarts.remove(boxart)
                     renamed = True
@@ -46,6 +50,22 @@ for line in lines:
             if not renamed:
                 missing_boxarts.append(filename)
 
+unknown_boxarts = []
+for boxart in boxarts:
+    renamed = False
+    for filename in filenames:
+        if simple_filename(boxart) == simple_filename(filename):
+            if os.path.exists(os.path.join('Named_Boxarts', filename)):
+                print('remove: ' + os.path.join('Named_Boxarts', boxart))
+                os.remove(os.path.join('Named_Boxarts', boxart))
+            else:
+                print('rename: ' + os.path.join('Named_Boxarts', boxart))
+                os.rename(os.path.join('Named_Boxarts', boxart), os.path.join('Named_Boxarts', filename))
+            boxarts.remove(boxart)
+            renamed = True
+            break
+    if not renamed:
+        unknown_boxarts.append(boxart)
 
 missing_boxarts_file = open('missing_boxarts.txt', 'w')
 missing_boxarts_str = ''
@@ -56,7 +76,7 @@ missing_boxarts_file.close()
 
 unknown_boxarts_file = open('unknown_boxarts.txt', 'w')
 unknown_boxarts_str = ''
-for file in boxarts:
+for file in unknown_boxarts:
     unknown_boxarts_str += file + '\n'
 unknown_boxarts_file.write(unknown_boxarts_str)
 unknown_boxarts_file.close()
