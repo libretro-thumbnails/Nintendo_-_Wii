@@ -240,9 +240,9 @@ Anubis II (Europe).png
 AnyTitle Deleter.png
 AnyTitle Deleter (Europe).png
 AnyTitle Deleter DB.png
+AnyTitle Deleter Mod.png
 AnyTitle Deleter Mod DB.png
 Anyregion Changer.png
-Anytitle Deleter Mod.png
 Appare! Gateball (Japan).png
 Aqua Living - Terebi de Nagameru Sakanatachi (Japan).png
 Aqua Panic! (Europe).png
@@ -562,6 +562,7 @@ BlueMSX-wii.png
 Bluedump.png
 Board Warriors (Japan).png
 Bob the Builder_ Festival of Fun (Europe).png
+Bob-Omb Super Mario Bros. Wii (USA).png
 Bobby Carrot Forever (Europe).png
 Bobby Carrot Forever (USA).png
 Boingz (USA).png
@@ -910,7 +911,7 @@ Chouzetsu Rinjin - Berabow Man (Japan).png
 Chouzetsurinjin Bravoman (Japan).png
 Christmas Clix (USA).png
 Christmas-Type Adventure Time.png
-Christmascountdown.png
+ChristmasCountdown.png
 Chrono Trigger (Europe).png
 Chrono Trigger (Europe).png
 Chrono Trigger (Japan).png
@@ -932,7 +933,7 @@ Classic British Motor Racing (Europe).png
 Clay Fighter (Europe).png
 Clay Fighter (USA).png
 CleanRip.png
-Cleanrip mod.png
+CleanRip Mod.png
 Clever Kids_ Creepy Crawlies (Europe).png
 Cliff Super Mario Bros. Wii (Europe).png
 Cliff Super Mario Bros. Wii (Japan).png
@@ -1037,7 +1038,7 @@ Crazy Machines (Europe).png
 Crazy Mini Golf 2 (Europe).png
 Crazy Mini Golf 2 (Europe).png
 Crazy Mini Golf 2 (USA).png
-Crazy Quiz! Are You Crazy Enough? (Europe).png
+Crazy Quiz! Are You Crazy Enough_ (Europe).png
 Create (Europe).png
 Crest of Wolf (Japan).png
 Cria Kart Wii (USA).png
@@ -1096,6 +1097,7 @@ DU Super Mario Bros. _ Anniversary Edition (Europe).png
 DU Super Mario Bros. _ DU Edition (Europe).png
 DU Super Mario Bros. _ DU Edition (USA).png
 DU Super Mario Bros. _ Find That Princess (USA).png
+DU Super Mario Bros. Wii_ RoyalSuperMario Edition (USA).png
 DU Super Wario Bros. (USA).png
 DU Tag Channel (Europe).png
 DVD Browser.png
@@ -1505,6 +1507,7 @@ Earthworm Jim (USA).png
 Earthworm Jim 2 (Europe).png
 Earthworm Jim 2 (Japan).png
 Earthworm Jim 2 (USA).png
+Easy Super Mario Bros. Wii (USA).png
 EasyIOS.png
 Eat! Fat! FIGHT! (Europe).png
 Eat! Fat! FIGHT! (USA).png
@@ -1541,6 +1544,7 @@ Enduro Racer (Europe).png
 Enduro Racer (Japan).png
 Enduro Racer (USA).png
 Engine02.png
+Enhanced Super Mario Bros. Wii  Deluxe (USA).png
 Enjoy Your Massage! (Europe).png
 Enjoy your Massage! (USA).png
 Ennichi no Tatsujin (Japan).png
@@ -1597,6 +1601,7 @@ FAST - Racing League (Europe).png
 FAST - Racing League (USA).png
 FBZX Wii.png
 FCE Ultra GX (Europe).png
+FCE Ultra GX Channel Installer.png
 FIFA 08.png
 FIFA 08 (Europe).png
 FIFA 08 (Europe).png
@@ -1721,7 +1726,6 @@ Fatal Fury Special (USA).png
 Faxanadu (Europe).png
 Faxanadu (Japan).png
 Faxanadu (USA).png
-Fceugx Channel Installer.png
 Fe4less' Authentic Texture Pack (USA).png
 Fenimore Fillmore - The Westerner (Europe).png
 Fenimore Fillmore - The Westerner (USA).png
@@ -2102,6 +2106,7 @@ Guitar Hero Aerosmith Custom_ NOT Aerosmith but... (USA).png
 Guitar Hero Custom_ NOT Aerosmith but... (USA).png
 Guitar Hero III - Legends of Rock.png
 Guitar Hero III - MUSE.png
+Guitar Hero III - Rock Hits Custom v2.png
 Guitar Hero III Custom - A7X (Avenged Sevenfold).png
 Guitar Hero III Custom _ Anarchy (USA).png
 Guitar Hero III Custom _ Aspero (USA).png
@@ -2207,7 +2212,7 @@ Guitar Hero_ Metallica (Europe).png
 Guitar Hero_ Van Halen (Europe).png
 Guitar Hero_ Warriors of Rock (Europe).png
 Guitar Hero_ World Tour (Europe).png
-Guitars On Fire.png
+GuitarsOnFire.png
 Gummy Bears Mini Golf (Europe).png
 Gunblade NY _ LA Machineguns_ Arcade Hits Pack (Europe).png
 Gunstar Heroes (Europe).png
@@ -2405,7 +2410,7 @@ I SPY Game Pack (USA).png
 I'm a Celebrity...Get Me Out of Here! (Europe).png
 IOS Check.png
 IOS236 Installer.png
-IOS36 patcher.png
+IOS36 Patcher.png
 IOS51 Update.png
 IOS58 Installer.png
 IOS60 Installer.png
@@ -2478,7 +2483,7 @@ It's my Birthday! (Europe).png
 Itadaki Street Wii (Japan).png
 Italian Parking.png
 Item Sagashi - Yousei to Fushigi no Shima (Japan).png
-Ivy The Kiwi? (Europe).png
+Ivy The Kiwi_ (Europe).png
 Ivy the Kiwi (Japan).png
 Ivy the Kiwi - Mini (Japan).png
 J.J. _ Jeff (Europe).png
@@ -3198,6 +3203,7 @@ Mario Party 8 Widescreen (USA).png
 Mario Party 9.png
 Mario Party 9.png
 Mario Party 9 (Europe).png
+Mario Party 9 Repainted (USA).png
 Mario Party Project Hudson (USA).png
 Mario Power Soccer.png
 Mario Power Tennis (Europe).png
@@ -3701,6 +3707,7 @@ New Mario Kart Seven (USA).png
 New Mario Kart Wii 64 (USA).png
 New Mario Kart_ Double Dash!! (USA).png
 New Old Super Mario Bros. Wii (USA).png
+New Pokemon X Wii (USA).png
 New Rally-X (Japan).png
 New SUPER DODO BROS (Europe).png
 New SUPER MARIO BROS. Wii 20 The End For Now (Europe).png
@@ -3819,6 +3826,7 @@ New Super Mario Bros. Wii Retro Remix (USA).png
 New Super Mario Bros. Wii Revolution (Europe).png
 New Super Mario Bros. Wii Scooby-Doo! Hack (USA).png
 New Super Mario Bros. Wii The End of Vacation... (Europe).png
+New Super Mario Bros. Wii Ultimate (USA).png
 New Super Mario Bros. Wii Underground Maze (Europe).png
 New Super Mario Bros. Wii Underground Maze (Japan).png
 New Super Mario Bros. Wii Underground Maze (USA).png
@@ -3845,6 +3853,7 @@ New Super Mario Land Wii (USA).png
 New Super Mario Remake (USA).png
 New Super Metroid Bros. Wii (USA).png
 New Super Minecraft Bros. Wii (USA).png
+New Super Shell Bros. Wii (USA).png
 New Super Sonic Wii (Europe).png
 New Super Spike Wii (USA).png
 New Super SpongeBob Bros. Wii (USA).png
@@ -3852,6 +3861,7 @@ New Super Summer Vacation (Europe).png
 New Super Summer Vacation (Japan).png
 New Super Summer Vacation (USA).png
 New Unou Kids Wii (Japan).png
+New Yoshi's Island Wii (USA).png
 NewU Fitness First Mind Body_ Yoga _ Pilates Workout (Europe).png
 NewU Fitness First Mind Body_ Yoga _ Pilates Workout (USA).png
 NewU Fitness First Personal Trainer (Europe).png
@@ -4043,7 +4053,6 @@ Oneechanbara Revolution (Japan).png
 Onitore - Kyoukan wa Onigunsou (Japan).png
 Onslaught (Europe).png
 Onslaught (USA).png
-Ookami (Japan).png
 Oops! Prank Party (Demo) (USA).png
 Open Season (Europe).png
 Open Sram Lang Modifier.png
@@ -4262,13 +4271,7 @@ Playstats.png
 Pocoyo Racing (Europe).png
 Point and No Click.png
 Pokemon Fushigi no Dungeon - Mezase! Hikari no Boukendan (Demo) (Japan).png
-Pokemon Puzzle League (Europe).png
-Pokemon Puzzle League (Europe).png
 Pokemon Snap (Europe).png
-Pokemon Snap (Europe).png
-Pokemon Snap (Europe).png
-Pokemon Snap (Europe).png
-Pokemon Snap (USA).png
 Poker.png
 Pokers Wii (Japan).png
 Poke╠ümon Puzzle League (Europe).png
@@ -4283,6 +4286,8 @@ Pokemon Battle Revolution (Japan).png
 Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan).png
 Pokemon Fushigi no Dungeon - Mezase! Hikari no Boukendan (Japan).png
 Pokemon Fushigi no Dungeon - Susume! Honou no Boukendan (Japan).png
+Pokemon Puzzle League (Europe).png
+Pokemon Puzzle League (Europe).png
 Pokemon Puzzle League (Japan).png
 Pokemon Puzzle League (USA).png
 Pokemon Rumble (Demo) (Europe).png
@@ -4290,7 +4295,11 @@ Pokemon Rumble (Demo) (USA).png
 Pokemon Rumble (Europe).png
 Pokemon Rumble (USA).png
 Pokemon Snap (Europe).png
+Pokemon Snap (Europe).png
+Pokemon Snap (Europe).png
+Pokemon Snap (Europe).png
 Pokemon Snap (Japan).png
+Pokemon Snap (USA).png
 Pokemon XG_ Next Gen (USA).png
 Pokemon_ Blue Version.png
 Pokemon_ Red Version.png
@@ -4449,6 +4458,7 @@ Q2ctfrev.png
 Q2rev.png
 Qrevpak.png
 Quadrax.png
+Quagsire Super Mario Bros. Wii (USA).png
 Quake.png
 Quakegx.png
 Quarth (Japan).png
@@ -4515,6 +4525,8 @@ Rally Racer (Europe).png
 Ram Racing (Europe).png
 Rampage_ Total Destruction (Europe).png
 Random Laps (USA).png
+Random Super Mario Bros. Wii (USA).png
+Random Super Mario Bros. Wii 2 (USA).png
 Rango (Europe).png
 Ransen! Pokemon Scramble (Japan).png
 Rapala Fishing Frenzy (Europe).png
@@ -4742,7 +4754,6 @@ SEGA Superstars Tennis (Europe).png
 SNES9xGX.png
 SNES9xGX Channel Installer.png
 SNK Arcade Classics Volume 1 (Europe).png
-SNK Arcade Classics Volume 1 (USA).png
 SPG64 IN SMG! (USA).png
 SPOGS Racing (Europe).png
 SPOGS Racing (USA).png
@@ -4797,6 +4808,7 @@ Sandy Beach (Europe).png
 Sandy Beach (USA).png
 Sangokushi 11 with Power-Up Kit (Japan).png
 Sangokushi IV (Japan).png
+Sans Super Mario Bros. Wii (USA).png
 Sar.png
 Save Extractor.png
 Save installer.png
@@ -4809,13 +4821,13 @@ Scape.png
 Scarface_ The World Is Yours (Europe).png
 Scarface_ The World Is Yours (Europe).png
 Scarface_ The World Is Yours (Europe).png
-Scene It? Bright Lights! Big Screen! (Europe).png
-Scene It? Bright Lights! Big Screen! (Europe).png
-Scene It? Bright Lights! Big Screen! (Europe).png
-Scene It? Bright Lights! Big Screen! (Europe).png
-Scene It? Bright Lights! Big Screen! (Europe).png
-Scene It? Bright Lights! Big Screen! (USA).png
-Scene It? Twilight (Europe).png
+Scene It_ Bright Lights! Big Screen! (Europe).png
+Scene It_ Bright Lights! Big Screen! (Europe).png
+Scene It_ Bright Lights! Big Screen! (Europe).png
+Scene It_ Bright Lights! Big Screen! (Europe).png
+Scene It_ Bright Lights! Big Screen! (Europe).png
+Scene It_ Bright Lights! Big Screen! (USA).png
+Scene It_ Twilight (Europe).png
 Schism Tracker.png
 Schlag den Raab (Europe).png
 Schlag den Raab - Das 2. Spiel (Europe).png
@@ -4830,6 +4842,7 @@ Scooby-Doo! and the Spooky Swamp (Europe).png
 Score International Baja 1000_ World Championship Offroad Racing (Europe).png
 Score International Baja 1000_ World Championship Offroad Racing (USA).png
 Scrabble Interactive_ 2009 Edition (Europe).png
+ScummVM.png
 Sea Farm - Iruka to Watashi no Showtime (Japan).png
 Sea Monsters_ A Prehistoric Adventure (Europe).png
 Season Cycle Galaxy (Europe).png
@@ -4873,8 +4886,8 @@ Sengoku Mahjong (Japan).png
 Sengoku Musou 3 (Japan).png
 Sengoku Musou 3 Moushouden (Japan).png
 Sengoku Musou KATANA (Japan).png
-Senjou no Ookami (Japan).png
-Senjou no Ookami II (Japan).png
+Senjou no Okami (Japan).png
+Senjou no Okami II (Japan).png
 SensorMii.png
 Sesame Street_ Cookie's Counting Carnival (Europe).png
 Sesame Street_ Elmo's A-to-Zoo Adventure (Europe).png
@@ -5272,6 +5285,7 @@ Spider-Man_ Shattered Dimensions (Europe).png
 Spider-Man_ Web of Shadows (Europe).png
 Spin Master (Europe).png
 Spin Master (USA).png
+Spinless Mario Galaxy 2 (USA).png
 Spirit of the Wolf (Europe).png
 Spitits.png
 Splatter Castle.png
@@ -5600,6 +5614,7 @@ Super Mario Bros. Frozen Edition (Japan).png
 Super Mario Bros. Frozen Edition (USA).png
 Super Mario Collection.png
 Super Mario Collection (Japan).png
+Super Mario Earth (USA).png
 Super Mario Eclipse (USA).png
 Super Mario Galaxy.png
 Super Mario Galaxy.png
@@ -5612,13 +5627,20 @@ Super Mario Galaxy 2 Plus (USA).png
 Super Mario Galaxy 2.5 (USA).png
 Super Mario Galaxy 2_ Daredevil Challenge (USA).png
 Super Mario Galaxy 2_ Fog Edition (USA).png
+Super Mario Galaxy 2_ Mii Green Stars (USA).png
+Super Mario Galaxy 2_ New Background (USA).png
 Super Mario Galaxy 2_ The Green Star Festival (USA).png
 Super Mario Galaxy 2_ The Kaizo Green Stars (USA).png
 Super Mario Galaxy 2_ The Lost Levels (USA).png
 Super Mario Galaxy 2_ The New Green Stars (USA).png
 Super Mario Galaxy 2_ Underwater Edition (USA).png
 Super Mario Galaxy 64_ Holiday Special (USA).png
+Super Mario Galaxy 69 (USA).png
+Super Mario Galaxy_ Anti Piracy (USA).png
+Super Mario Galaxy_ Multiplayer Splitscreen (USA).png
+Super Mario Galaxy_ No Black Holes (USA).png
 Super Mario Galaxy_ Nvidia Shield TV.png
+Super Mario Galaxy_ Remastered (USA).png
 Super Mario Galaxy_ The Green Stars (USA).png
 Super Mario Galaxy_ The Kaizo Green Stars (USA).png
 Super Mario Galaxy_ Underwater Edition (USA).png
@@ -6034,7 +6056,6 @@ The Last Ninja (USA).png
 The Last Story (Europe).png
 The Last Story (Japan).png
 The Last Story (NTSC-U, Japanese Audio) (USA).png
-The Legend Of Custom Levels (USA).png
 The Legend of Kage (USA).png
 The Legend of Mystical Ninja (Europe).png
 The Legend of Mystical Ninja (Europe).png
@@ -6190,6 +6211,7 @@ Timeless.png
 Titanic Mystery (Europe).png
 Titeuf le Film (Europe).png
 Title Lister.png
+Toad and Toadette Super Mario Bros. Wii (USA).png
 Today _ Tomorrow Channel (Europe).png
 Toddtris.png
 ToeJam _ Earl (Europe).png
@@ -6254,6 +6276,8 @@ Toy Story Mania! (Europe).png
 Toy Story Mania! (USA).png
 Toy Wars.png
 TrackMania (Europe).png
+Transformationless Mario Galaxy (USA).png
+Transformationless Mario Galaxy 2 (USA).png
 Transformers - Convoy no Nazo (Japan).png
 Transformers Prime_ The Game (Europe).png
 Transformers_ Cybertron Adventures (Europe).png
@@ -6584,7 +6608,7 @@ Wii Mod Lite.png
 Wii Music.png
 Wii Music (Europe).png
 Wii Music (Japan).png
-Wii Music_ RiiArranged - Song Pack 1 (USA).png
+Wii Music_ RiiArranged (USA).png
 Wii Music_ RiiArranged - Song Pack 2 (USA).png
 Wii Music_ RiiArranged - Song Pack 3 (USA).png
 Wii Music_ RiiArranged - Song Pack 4 (USA).png
@@ -6966,7 +6990,7 @@ Yosh's Track Pack (USA).png
 Yosh's Track Pack DX (USA).png
 Yoshi.png
 Yoshi (USA).png
-Yoshi Racing Resort Plus (Japan).png
+Yoshi Party (USA).png
 Yoshi no Cookie (Japan).png
 Yoshi no Tamago (Japan).png
 Yoshi's Cookie.png
@@ -6975,6 +6999,7 @@ Yoshi's Cookie (USA).png
 Yoshi's Racing Resort (USA).png
 Yoshi's Racing Resort Plus.png
 Yoshi's Racing Resort Plus (Europe).png
+Yoshi's Racing Resort Plus (Japan).png
 Yoshi's Racing Resort Plus (USA).png
 Yoshi's Story (Europe).png
 Yoshi's Story (Japan).png
@@ -7089,9 +7114,9 @@ iCarly 2_ iJoin the Click! (Europe).png
 iiii.png
 lsusb.png
 mapbf.png
-scummVM.png
 uDraw Studio (Europe).png
 uDraw Studio_ Instant Artist (Europe).png
 uLoader (Europe).png
 xyzzy.png
-Ōkami (Europe).png
+Okami (Europe).png
+Okami (Japan).png

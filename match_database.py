@@ -4,7 +4,7 @@ import re
 import os
 
 def clean_filename(filename):
-    return filename.replace(':', '_').replace('&', '_').replace('/', '_')
+    return filename.replace(':', '_').replace('&', '_').replace('/', '_').replace('?', '_')
 
 def simple_filename(filename):
     filename = re.sub(r'\b(and|the|game)\b', '', filename, flags=re.IGNORECASE)
